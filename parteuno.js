@@ -12,9 +12,6 @@
  *
  */
 
-/* function sayGoodbye( *//* código aquí *//* ) { */
-    /* código aquí */
-/* } */
 
 function sayGoodbye(nombre) {
 

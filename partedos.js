@@ -27,7 +27,6 @@
  * en forma simultánea con un comentario previo indicando el número. Ejemplo abajo:
  */
 
-// 1 Obtener caracteres con masa superior a 100
 
 
 
